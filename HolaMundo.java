@@ -1,1 +1,0 @@
-SystemOutPrintln("Hola mundo");
